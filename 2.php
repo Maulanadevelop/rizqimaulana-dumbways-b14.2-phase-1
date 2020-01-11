@@ -1,6 +1,8 @@
 <?php
 
-// dynamic sorting application, min 2 dimension of array
+// this is a dynamic sorting application, try to change the data! :D
+// change minimal 2 dimension of array.. okay?..
+// v change this data below v
 $data = [
         ['M', 'L', 'O', 'N'],
         ['T', 'S', 'Q', 'P', 'R'],
