@@ -1,0 +1,33 @@
+1. pukul  05:25:15 kecepatan 3m/s
+2. 10 menit kemudian, kecepatan bertambah 1m/s, menjadi 4m/s
+3. setiap 7 menit berikutnya kecepatan ditambah 1m/s
+4. tepat pukul 05:42:15 dia mencapai kecepatan 5m/s
+5. tepat pukul 05:49:15 dia mencapai kecepatan 6m/s
+6. tepat pukul 05:56:15 dia mencapai kecepatan 7m/s
+7. tepat pukul 06:03:15 dia mencapai kecepatan 8m/s
+8. tepat pukul 06:10:15 dia mencapai kecepatan 9m/s
+9. tepat pukul 06:17:15 dia mencapai kecepatan 10m/s
+10. tepat pukul 06:24:15 dia mencapai kecepatan 11m/s
+11. tepat pukul 06:31:15 dia mencapai kecepatan 12m/s
+12. tepat pukul 06:38:15 dia mencapai kecepatan 13m/s
+13. tepat pukul 06:45:15 dia mencapai kecepatan 14m/s
+14. tepat pukul 06:52:15 dia mencapai kecepatan 15m/s
+15. tepat pukul 06:59:15 dia mencapai kecepatan 16m/s
+15. tepat pukul 07:06:15 dia mencapai kecepatan 17m/s
+15. tepat pukul 07:13:15 dia mencapai kecepatan 18m/s
+16. tepat pukul 07:20:15 dia mencapai kecepatan 19m/s
+17. tepat pukul 07:27:15 dia mencapai kecepatan 20m/s
+18. tepat pukul 07:34:15 dia mencapai kecepatan 21m/s
+19. tepat pukul 07:41:15 dia mencapai kecepatan 22m/s
+20. tepat pukul 07:48:15 dia mencapai kecepatan 23m/s
+21. tepat pukul 07:55:15 dia mencapai kecepatan 24m/s
+22. tepat pukul 08:02:15 dia mencapai kecepatan 25m/s
+23. tepat pukul 08:09:15 dia mencapai kecepatan 26m/s
+24. tepat pukul 08:16:15 dia mencapai kecepatan 27m/s
+25. tepat pukul 08:23:15 dia mencapai kecepatan 28m/s
+26. tepat pukul 08:30:15 dia mencapai kecepatan 29m/s
+27. tepat pukul 08:37:15 dia mencapai kecepatan 30m/s
+28. tepat pukul 08:44:15 dia mencapai kecepatan 31m/s
+29. tepat pukul 08:51:15 dia mencapai kecepatan 32m/s
+30. tepat pukul 08:58:15 dia mencapai kecepatan 33m/s
+31. pukul 09:00:00 dia sudah mencapai kecepatan 33m/s
