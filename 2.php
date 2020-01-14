@@ -12,10 +12,10 @@ $data = [
 for ($i=0; $i < count($data); $i++) { 
     while ($data[$i] != sort($data[$i])) {
         for ($j = 0; $j < count($data[$i]); $j++) {
-             if ($data[$i][$j] == $data[$i][$i]) {
+             if ($data[$i][$j] == $data[$i][0]) {
                  unset($data[$i][$j]);
                  array_push($data[$i], $data[$i][$j]);
-             }elseif ($data[$i][$j] > $data[$i][$i]) {
+             }elseif ($data[$i][$j] > $data[$i][0]) {
                  unset($data[$i][$j]);
                  array_push($data[$i], $data[$i][$j]);
              }else {
